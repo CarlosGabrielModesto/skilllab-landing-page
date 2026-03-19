@@ -99,8 +99,3 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 - Mestrando em Engenharia Agrícola — UNESP/FCA Botucatu
 - Graduado em Engenharia de Computação — Faculdade Galileu
-- Certificações Microsoft: Azure AI Fundamentals (AI-900) e Azure Data Fundamentals (DP-900)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgabrielmodesto)
-[![Lattes](https://img.shields.io/badge/Lattes-003366?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHRleHQgeD0iMCIgeT0iMTIiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIj5MPC90ZXh0Pjwvc3ZnPg==&logoColor=white)](http://lattes.cnpq.br/9699036690474846)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3039-4397)
