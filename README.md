@@ -6,12 +6,6 @@ Landing page de uma plataforma fictícia de cursos preparatórios para certifica
 
 <br>
 
-## 🔗 Demo
-
-Acesse a versão ao vivo: **[carlosgabrielmodesto.github.io/skilllab-landing-page](https://carlosgabrielmodesto.github.io/skilllab-landing-page)**
-
-<br>
-
 ## 📋 Sobre o Projeto
 
 A **SkillLab** simula uma plataforma de venda de cursos preparatórios para os exames Microsoft Fundamentals:
