@@ -1,25 +1,25 @@
-# 🎓 SkillLab — Landing Page
+# SkillLab — Landing Page
 
 Landing page de uma plataforma fictícia de cursos preparatórios para certificações Microsoft Fundamentals (linha 900).
 
-> **Projeto de portfólio** desenvolvido para demonstrar habilidades em HTML, CSS e JavaScript com foco em design responsivo, dark/light mode e UX de conversão.
+> Projeto de portfólio desenvolvido para demonstrar habilidades em HTML, CSS e JavaScript, com foco em design responsivo, dark/light mode e UX de conversão.
 
 <br>
 
-## 📋 Sobre o Projeto
+## Sobre o projeto
 
-A **SkillLab** simula uma plataforma de venda de cursos preparatórios para os exames Microsoft Fundamentals:
+A SkillLab simula uma plataforma de venda de cursos preparatórios para os exames Microsoft Fundamentals:
 
 - **AZ-900** — Azure Fundamentals
 - **AI-900** — Azure AI Fundamentals
 - **DP-900** — Azure Data Fundamentals
 - **PL-900** — Power Platform Fundamentals
 
-O projeto foi construído com foco em **funil de conversão**: hero persuasivo, prova social com depoimentos, cards de curso com identidade visual por exame, tabela de preços com destaque no plano principal e FAQ para quebra de objeções.
+O projeto foi desenvolvido com foco em **funil de conversão**, incluindo hero persuasivo, prova social com depoimentos, cards de curso com identidade visual por exame, tabela de preços com destaque para o plano principal e FAQ para quebra de objeções.
 
 <br>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 | Tecnologia | Uso |
 |---|---|
@@ -30,7 +30,7 @@ O projeto foi construído com foco em **funil de conversão**: hero persuasivo, 
 
 <br>
 
-## 🎨 Seções
+## Seções
 
 - **Hero** — Headline, CTAs e selos de confiança
 - **Cursos** — 4 cards com cor única por certificação (AZ, AI, DP, PL)
@@ -43,7 +43,7 @@ O projeto foi construído com foco em **funil de conversão**: hero persuasivo, 
 
 <br>
 
-## ⚡ Features Técnicas
+## Recursos técnicos
 
 - **Dark/Light Mode** — Troca de tema com detecção automática da preferência do sistema e persistência via `localStorage`
 - **Responsivo** — Layout adaptável para mobile, tablet e desktop
@@ -55,7 +55,7 @@ O projeto foi construído com foco em **funil de conversão**: hero persuasivo, 
 
 <br>
 
-## 🚀 Como executar
+## Como executar
 
 ```bash
 # Clone o repositório
@@ -72,7 +72,7 @@ Não é necessário instalar nada — basta abrir o `index.html`.
 
 <br>
 
-## 📁 Estrutura
+## Estrutura do projeto
 
 ```
 skilllab-landing-page/
@@ -87,13 +87,13 @@ skilllab-landing-page/
 
 <br>
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <br>
 
-## 👤 Autor
+## Autor
 
 **Carlos Gabriel dos Santos Modesto**
 
